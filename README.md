@@ -1,0 +1,9 @@
+GT Movies Store is a web app that mimics an online movie renting/purchasing website. For this app, I followed a strict set of user stories assigned to fulfill the needs of any potential or future users.
+This web app had a few key components: home screen, movie details, search and filter, cart and checkout, log in page, and confirmation page.
+About Page/ Home Screen: Displays a list of movies along with posters, titles, and short descriptions. This addresses the user story of "As a user, I want to view available movies so that I can select what I wish to watch."
+Movies Page: Clicking on a movie card opens a detailed page with synopsis, rating, genre, and buy/rental options. This is for the story "As a user, I want to know more about a movie before I decide."
+Search and Filter: There is the option to search by title or filter by genre, which covers the story "As a user, I want to be able to find movies I want to watch quickly without having to scroll through all of them."
+Cart & Checkout: Selected movies can be added to a cart, where the total price is calculated. This meets "As a user, I want to add movies to a cart and check out so I can complete my purchase."
+Confirmation Page: After checkout, users are shown a summary of their order, which closes the loop for the purchasing process.
+
+For this project, I employed an Agile iterative development cycle. I first read through all the user stories, such as catalog display, search functionality, and cart and checkout functionality. Then, by following through the chapters of the textbook, I developed and tested each feature incrementally, ensuring they functioned before moving on to the next. Whenever I encountered issues I referred back to the textbook, and the appropiate documentation from the respective developers. This helped me stay organized, make continous progress on the app, and ensure that the final web appp met all of the user stories.
